@@ -1,8 +1,5 @@
 # 📈 Evolução do Preço das Ações - Projeto Streamlit
 
-<div align="center">
-  <img src="caminho/para/sua_imagem_capa.png" alt="Banner do Projeto" width="700"/>
-</div>
 
 ---
 

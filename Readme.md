@@ -41,7 +41,7 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 ---
 
 <div align="center">
-  <img src="/fot2.jpg" alt="Gráfico" width="700" />
+  <img src="/fot2.jpg" alt="Gráfico" width="350" />
 </div>
 
 ---

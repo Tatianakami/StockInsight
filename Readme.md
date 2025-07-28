@@ -35,7 +35,7 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 
 ## 📷 Screenshots
 
-### Tela inicial com seleção de ações e período
+
 
 ![Tela Inicial](/FOTO1.jpg)
 

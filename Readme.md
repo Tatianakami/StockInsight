@@ -41,13 +41,13 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 
 ---
 
-### Gráfico interativo das ações selecionadas
+
 
 ![Gráfico](/fot2.jpg)
 
 ---
 
-### Tabela de preços e performance dos ativos
+
 
 ![Tabela e Performance](/fot3.jpg)
 

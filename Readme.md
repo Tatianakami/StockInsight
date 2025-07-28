@@ -8,6 +8,14 @@ Este projeto é uma aplicação web interativa desenvolvida em **Python** com **
 
 O usuário pode selecionar múltiplas ações, escolher o período de análise, e obter a performance percentual de cada ativo no intervalo selecionado.
 
+
+## 📷 Screenshots
+
+<div align="center">
+  <img src="/FOTO1.jpg" alt="Tela Inicial" width="700" />
+</div>
+
+
 ---
 
 ## ⚙️ Tecnologias e Bibliotecas
@@ -20,6 +28,13 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 
 ---
 
+<div align="center">
+  <img src="/fot2.jpg" alt="Gráfico" width="350" />
+</div>
+
+---
+
+
 ## 🚀 Funcionalidades
 
 - Seleção múltipla de ações brasileiras e internacionais (ex.: ITUB4.SA, AAPL, AMZN)
@@ -30,19 +45,6 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 - Interface amigável com barra lateral para filtros
 - Mensagens informativas para casos sem dados ou seleção vazia
 
----
-
-## 📷 Screenshots
-
-<div align="center">
-  <img src="/FOTO1.jpg" alt="Tela Inicial" width="700" />
-</div>
-
----
-
-<div align="center">
-  <img src="/fot2.jpg" alt="Gráfico" width="350" />
-</div>
 
 ---
 

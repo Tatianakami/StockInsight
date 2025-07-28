@@ -1,6 +1,5 @@
 # 📈 Evolução do Preço das Ações - Projeto Streamlit
 
-
 ---
 
 ## 📋 Descrição
@@ -35,21 +34,21 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 
 ## 📷 Screenshots
 
-
-
-![Tela Inicial](/FOTO1.jpg)
-
----
-
-
-
-![Gráfico](/fot2.jpg)
+<div align="center">
+  <img src="/FOTO1.jpg" alt="Tela Inicial" width="700" />
+</div>
 
 ---
 
+<div align="center">
+  <img src="/fot2.jpg" alt="Gráfico" width="700" />
+</div>
 
+---
 
-![Tabela e Performance](/fot3.jpg)
+<div align="center">
+  <img src="/fot3.jpg" alt="Tabela e Performance" width="700" />
+</div>
 
 ---
 
@@ -57,7 +56,7 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 
 ### Pré-requisitos
 
-- Python 3.10 ou superior instalado
+- Python 3.10 ou superior instalado  
 - Recomenda-se criar um ambiente virtual (venv)
 
 ### Passos
@@ -68,51 +67,3 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 git clone https://github.com/seu_usuario/seu_repositorio.git
 cd seu_repositorio
 
-Instale as dependências:
-
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Execute o aplicativo Streamlit:
-
-bash
-Copiar
-Editar
-streamlit run main.py
-O navegador abrirá automaticamente a aplicação. Caso contrário, acesse http://localhost:8501
-
-📁 Estrutura do projeto
-bash
-Copiar
-Editar
-
-├── main.py                
-├── requirements.txt       
-├── README.md              
-└── imagens/ 
-
-🤝 Contribuição
-Contribuições são bem-vindas! Para colaborar:
-
-Faça um fork deste repositório
-
-Crie uma branch com a sua feature (git checkout -b feature/nome-da-feature)
-
-Faça commit das suas alterações (git commit -m 'Adiciona nova feature')
-
-Envie para o branch original (git push origin feature/nome-da-feature)
-
-Abra um Pull Request para análise
-
-📄 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-👩‍💻 Desenvolvido por Tatiana Kami
-
-
-GitHub: github.com/Tatianakami
-
-LinkedIn: linkedin.com/in/tatianakami
-
-🚀 Projeto desenvolvido para fins de estudo e portfólio pessoal.

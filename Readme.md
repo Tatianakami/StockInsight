@@ -49,7 +49,7 @@ O usuário pode selecionar múltiplas ações, escolher o período de análise, 
 ---
 
 <div align="center">
-  <img src="/fot3.jpg" alt="Tabela e Performance" width="700" />
+  <img src="/fot3.jpg" alt="Tabela e Performance" width="400" />
 </div>
 
 ---
